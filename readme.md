@@ -1,3 +1,4 @@
+https://zhenglin333.github.io/plane/index.html
 # Canvas 射击小游戏
 在第五章中，我们学会了如何在 JavaScript 中运用面向对象来开发，也学习了如何使用 Canvas 来绘制各种图案和制作游戏动画。接下来，需要大家至今所学的`面向对象开发` 和 `Canvas` 相互结合起来，来完成接下来的 `Canvas 射击小游戏`。
 
